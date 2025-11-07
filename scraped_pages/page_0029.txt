@@ -1,0 +1,78 @@
+https://www.inf.ovgu.de/inf/en/Study/Being+a+student/Incoming/Academic+Integration+to+FIN/Email+Etiquette.html
+
+Faculty of computer science - OvGU Magdeburg Email Etiquette
+Email Etiquette
+Most of us reading this text have written an email before becoming a professor for a project. Emails today are synonymous with official communication and thus, it needs a little more attention.
+When you communicate with a professor at a german university, you have a look at the elements of an email.
+Subject line
+The subject line should be direct; short and crisp but long enough to explain what the email is for.
+Example:
+"Application for a 6 credits project under your supervision during WiSe19".
+"Inquiring about a project in the simulation group during WiSe19"
+"Seeking an appointment to discuss <specific_topic>."
+Greeting the receiver
+Greet the receiver with a "Dear Mr./Ms./Mrs. <Surname>".
+Always address the person
+with "Prof." if s / he is a professor.
+with "Dr." if s / he has a doctorate degree.
+Address with the surname, or first name with the surname.
+Example: "Dear Prof. Spiliopoulou" and
+not
+"Prof. Myra".
+Example: "Dear Dr. Claudia Krull" or "Hello Dr. Krull" and
+not
+"Dr. Claudia"
+Example: "Hello Ms. Madhura Thosar" or "Dear Ms. Thosar" and
+not
+"Hey Madhura"
+There needs to be a "comma (,)" at the end of the greeting.
+Avoid using the following:
+"Respected Prof. <surname>,"
+"Hello,"
+"Hi,"
+"Hey,"
+or other informal greetings.
+Email content
+Introduction
+Please introduce yourself very briefly if you are writing to the specific person for the first time.
+Example: "I am studying Data and Knowledge Engineering in the fifth semester."
+Do not write, "Myself, <name> studying DKE."
+Do not write, "Good morning, I on <name> studying DKE". You do not know when the receiver wants to read the email.
+Mention the reason why you are writing the email to the person.
+Example: "I want to talk to you about a project in the simulation group" or "I want to discuss my CV with you before sending it to a company"
+Email Body
+Write about the intent in details and why the receiver should pay attention.
+Example: "I have done <course_1>, <course_2> under the simulation group and have got 1.7 and 2.0 respectively. I am working on <area of expertise / tools used> and I am proficient on <relevant_coding_language_1>, <relevant_coding_language_2>. With this email, I've attached my CV / resume / profile for your perusal. "
+Expectation and follow up
+Categorically mention what you want when you write the email.
+Example: "Could you please give me an appointment next week to discuss this?"
+If the receiver does not respond in a week's time, feel free to drop a follow up email. Keep the follow up email short.
+Ending the email
+Do not forget to thank the person if he / she has given you an opportunity or appointment.
+You can write your wish for a response. Example: "I look forward to your response."
+Attachments
+If you are writing an application for a thesis, please attach your profile to the email, mentioning the courses you've taken.
+When you attach files, make sure the file names are self-explanatory and could be found by searching with your name, if lost in the hard disk.
+Closing
+"Best regards,"
+<Your_Name>
+Blog / portfolio link: www.your_portfolio.com (not mandatory)
+Mention the link, if the content on the link is yours and is relevant to the discussion. This often provides an insight into the students work.
+Do's and Don'ts in an email
+Please do not make spelling mistakes. Use a grammar checker.
+Re-read your emails. If it is an important email, please take full amount of time to draft your emails. Make at least three revisions, spend one day between each revision. If possible, get it reviewed by a friend who has an experience in writing emails. Note: If you misspell "simulation" as "stimulation" then spell checkers would not detect it because "stimulation" is a legitimate word; even though unintended in its use in the email.
+Keep sentences short and simple.
+Maintain the tone in the email.
+Do not appear arrogant or dismissive of the receiver or subservient.
+Use words like "please" if appropriate.
+Value the time is spent reading your email.
+It is for your need that you are writing the email. Use appropriate tone.
+Be precise and professional. Not personal.
+In one email, talk about one idea / thought or query. If you are addressing multiple topics, make it clear and use bullet points to communicate.
+Good and Bad Email Examples
+Good Email Examples
+Bad Email Examples
+Last Modification: 17.01.2024
+-
+Contact Person:
+Webmaster

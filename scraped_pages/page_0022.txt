@@ -1,0 +1,51 @@
+https://www.inf.ovgu.de/inf/en/Study/Before+you+start+studies/Study+courses/Master+courses/Data+and+Knowledge+Engineering.html#ende
+
+Faculty of computer science - OvGU Magdeburg Data and Knowledge Engineering
+Data and Knowledge Engineering
+The Master DKE delivers in-depth knowledge and competences in Data Science, one of the most promising career areas for ambitious computer scientists. Its subject area is "Engineering" for Data and for Knowledge, aiming to turn passive data into exploitable knowledge:
+It focusses on the representation, management and understanding of data and knowledge assets. It encompasses technologies for the design and development of advanced databases, knowledge bases and expert systems, methods for the extraction of models and patterns from conventional data, texts and multimedia, modelling instruments for the representation and updating of extracted knowledge. The Master DKE can be studied on German or English and is thus open to students mastering either of the two languages.
+DKE spans application areas ranging from business intelligence and market watches to life sciences, biotechnology and security. It builds upon advances in networked services, people and agent communication, in decision support, information systems and management. The management and analysis of data, the maintenance and understanding of knowledge assets are of major importance in business venues, in governmental authorities and in non-profit organisations. In the Master DKE, we prepare our students for a career as:
+Knowledge engineers in large institutions like banks, medical centres, joint ventures and holdings but also in small and medium size enterprises - Project managers for interdisciplinary projects that demand data-intensive solutions
+IT-consultants, specialized in the design and development of knowledge-intensive scenaria; application areas include e-business, biotechnology and customer relationship management
+Researchers on information systems, intelligent systems and their many application areas
+The Master DKE also provides the foundations for further studies towards a PhD degree.
+Click
+here
+for more information.
+At a glance
+Degree
+Master of Science (M.Sc.)
+Standard period of study
+4 Semester
+Start of studying
+winter term or summer term
+Conditions of admission
+The admission criteria can be found under:
+http://www.uni-magdeburg.de/en/Study/Study+Programmes/Master/Data+and+Knowledge+Engineering.html
+Under
+https://www.ovgu.de/unimagdeburg/en/International/Incoming+_+Ways+to+the+University/International+Students/Full_Time+Studies/Prerequisites-p-107050.html
+you find the different certificates accepted by our University and how CEFR C1 maps to each one. Beware that this webpage contains also the mapping for B2; for the data science Master DKE, make sure that you check under C1. Exceptions from the English evaluation are listed at the end of that webpage.
+More information abut applications
+Applications must be submitted via uni-assist, see instructions under
+Applying via uni-assist e.V.
+Primary contacts at University level (responsible for all University degrees):
+Your primary contacts
+Information for OVGU students changing their study course can be found
+here
+The admission prerequisites and criteria are not negotiable.
+Important Documents
+Current versions of regulations documents and courtesy translations can be found
+here.
+Detailed information on courses can be found in the
+module catalog
+and
+module lists.
+Under
+https://www.ovgu.de/unimagdeburg/en/International/Incoming+_+Ways+to+the+University/International+Students/Full_Time+Studies/Prerequisites-p-107050.html
+you find the different certificates accepted by our University and how CEFR C1 maps to each one. Beware that this webpage contains also the mapping for B2; for th data science Master DKE, make sure that you check under C1. Exceptions from the English evaluation are listed at the end of that webpage.
+FAQ
+System Accreditation Certificate M-DKE
+Last Modification: 27.08.2025
+-
+Contact Person:
+Webmaster

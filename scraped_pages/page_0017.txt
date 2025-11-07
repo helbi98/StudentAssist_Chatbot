@@ -1,0 +1,109 @@
+https://www.inf.ovgu.de/inf/en/Study/Before+you+start+studies/Study+courses/Master+courses/Masters+Prospective+Students+FAQ.html
+
+Faculty of computer science - OvGU Magdeburg Masters Prospective Students FAQ
+Masters Prospective Students FAQ
+Below are the FAQs for prospective students, categorized based on the degree programs Data Science MDKE, DE, and VC.
+For more general FAQs, please visit
+here
+NOTE: This is a growing collection, not every question is answered here. The answers here are not legally binding but can only provide a guideline on frequent questions in the application process.
+General
+Can I submit my application to the DE/Data Science MDKE/VC student supervisor instead of the Admissions Office?
+No. All applications must be submitted to the Admissions Office, which is collecting and processing them centrally.
+My university (or country) uses a different grading scheme than Germany, how do I know if I meet the requirements?
+A good rule of thumb is the modified Bavarian formula, see
+here
+.
+Do I need English AND German language skills for DE/Data Science MDKE/VC?
+No, either English or German is sufficient.
+Where can I find more information about Magdeburg and living there as a student?
+Please see
+here
+.
+I already had an acceptance for the Winter/Summer Term, but was not able to come due to visa issues. Can that acceptance be deferred to next semester?
+This is possible in some cases -- please consult your admission letter to confirm. When you missed the enrollment period for a particular semester, and if allowed by the admission letter, you should send an e-mail after that enrollment period to
+hiwi-adoff@ovgu.de
+. This e-mail must include your intended study course and application number.
+Important to note, that Master in Visual Computing in only available for the Winter semester.
+Can you help me with the visa application?
+Visa requirements differ from country to country and, we are therefore not able to provide assistance. General information can be found
+here
+.
+Are there fees for the Master DE/Data Science MDKE/VC?
+No.
+My undergraduate degree took more than 6 semesters and I earned more than 180 CP for it. Can I complete my Master in less than 4 semesters, then?
+All students, irrespective of the CPs earned for their undergraduate degree, have to complete 120 CP (90 CP by taking courses and 30 CP for the M.Sc. thesis).
+I have submitted my application well ahead of the deadline, but still have no answer.
+The applications are polled. Part of the processing is done after all applications are there. Submitting early does not mean that you get a notification earlier than other applicants.
+Are there differences in the application process for those already studying in Germany?
+The admission requirements are the same but, a different deadline applies and applications must be submitted through a different website. Follow the above general FAQ link for more details on students already studying in Germany. The earlier deadline for foreign students is intended to allow ample amount of time to get their Visum.
+What language certificates are accepted?
+Please see
+here
+. Additionally, you can consult the Admissions Office
+admission.office@verwaltung.uni-magdeburg.de
+for the full list of acceptable alternatives and the minimum degree you need for each one. When you call the Admissions Office, please mention that you want to apply to either the Master DE/Data Science MDKE/VC, since different rules apply for the different Master programs of our university.
+I completed my previous degree / high-school education completely in English, I even have a certificate stating that. Is that sufficient proof of English?
+For most countries, the answer is "No"!
+For exceptions, please see
+here
+. .
+I am not a native English speaker but, I did my bachelor in a university of UK/USA/Australia/Canada? Do I still need to make the English examination?
+Please check
+here
+.
+DE/Data Science MDKE
+I don't have a GRE result (thesis, practical experience, ...), which is mentioned on the form "Deliverables for Eligibility Assessment". Can I still apply?
+Yes of course. All the items mentioned on the form "Deliverables for Eligibility Assessment" are optional. Everything you have and submit, counts towards your points, which determine the eligibility.
+I got admission for the next semester (e.g. summer term 2024) but will not get my VISA or APS certificate in time to arrive for the semester start or enrollment period. What should I do now?
+You can still start your studies. You should use the online enrollment procedure, where you send in all necessary information to the registration office via email. Some courses also offer online participation, hybrid formats, or video recordings from previous semesters that enable you to attend a course without being physically present. Please contact the teachers of the courses that you are planning to attend, whether that option is available for the particular course.
+You can find the courses and contact information via LSF:
+https://lsf.ovgu.de/
+For exams, you need to be present here in Germany, but these are not conducted before the end of the lecture period (e.g. July 23) and can also be postponed by a semester in most cases. This way you can plan your arrival somewhere in the lecture period of the summer term and not lose too much time in your studies.
+Can you check my application for feedback?
+No, we only consider applications that are already submitted and preprocessed by the responsible authority. The admission criteria for the degree are at the degree's page, and you can check for yourself whether you satisfy them. For example, you know your CEFR level and the number of CS courses you have cleared in your previous studies.
+When is the application deadline if I apply via uni-assist?
+For the winter term intake, the uni-assist website is scheduled to open April 15 and close May 15. For the summer term intake, the uni-assist website is schedule to open October 15 and close November 15 of the previous year than the intake.
+VC
+Can you check my application for feedback?
+We are, unfortunately, not able to provide feedback on applications before these are submitted. In case you are not admitted, some information about the reason might be provided.
+I don't have all application documents, can I still apply?
+Yes, you can still apply. Your acceptance will be determined based on the documents in accordance with the official study regulations. It is certainly more difficult with a missing document, but not excluded.
+Is there a fixed curriculum?
+The first semester has some required courses (unless you already took them previously). Afterward, there are very few requirements.
+What GRE score do I need to get admitted?
+The admission is based on a combination of GRE, letter of motivation, and letter of recommendation and there is formally no minimum GRE score. Please see the section on admission requirements for details.
+Can I continue with a Ph.D. after the master?
+The program provides a good basis for a Ph.D. However, we only have a limited number of spots in Magdeburg and you might have to move to a different research group to pursue a Ph.D. (and we cannot guarantee that you will find a position).
+Can I talk to students who already finished the program?
+Well, the program is brand new and there are no graduates yet. However, you can get in touch with students in other programs at the department through the student association
+FaRaFIN
+.
+Who should I ask for the letter of recommendation?
+Ideally, somebody with whom you took more than one course in an area related to visual computing.
+I have no experience in visual computing but find the area really cool, can I still apply?
+The program is aimed at students with prior experience, and most likely you will not be accepted.
+I have trouble finding a faculty member who is willing to write a letter of recommendation, can I take a supervisor from work?
+No, we only accept letters of recommendation from faculty members or other academic supervisors (academic supervisors include, for example, group leaders at research institutes such as Max-Planck Institutes, Fraunhofer Institutes or equivalent).
+When is the application deadline?
+15 May.
+What happens if I cannot get my Visa in time?
+Your acceptance is valid for a year, so you can come the next year if necessary.
+Which courses can I take?
+See the
+following page
+.
+I did not manage to submit my application within the deadline, but I already have a Visum. Can I still submit?
+This is decided in a per-case basis.
+Please contact the Admissions Office at
+admission.office@verwaltung.uni-magdeburg.de
+immediately.
+For further questions on filling the application forms, please contact the Admissions Office at
+admission.office@verwaltung.uni-magdeburg.de
+Who can I contact if I still have questions?
+Please contact
+msc-vis-comp@isg.cs.uni-magdeburg
+.
+Last Modification: 17.10.2024
+-
+Contact Person:
+Webmaster

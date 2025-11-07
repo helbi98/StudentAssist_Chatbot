@@ -1,0 +1,23 @@
+https://www.inf.ovgu.de/inf/en/Study/Before+you+start+studies/Study+courses/Master+courses/Data+and+Knowledge+Engineering/information.html
+
+Faculty of computer science - OvGU Magdeburg Information
+Information
+The degree is organized across five thematic areas; students attend modules and acquire credit points through courses, team projects and seminars in all areas:
+Underpinnings: Basics of data mining, database processing, data/image/multimedia engineering
+Models: Knowledge representation, knowledge modeling, knowledge processing
+Methods I: Knowledge discovery, artificial intelligence, machine learning
+Methods II: Information processing and retrieval
+Applications: Application of DKE, including business applications, medical applications, engineering applications, core CS applications (e.g. security, image understanding) DKE spans application areas ranging from business intelligence and market watches to life sciences, biotechnology and security. It builds upon advances in networked services, people and agent communication, in decision support, information systems and management.
+List of courses
+Complete list of courses and mapping to the thematic areas, valid from Summer Term 2016 onwards:
+The courses available in the current term are updated regularly in the information system LSF.
+Here are some example lists of courses, as of summer term 2014:
+List of all DKE related courses
+List of all DKE related courses that are given in English
+Plan of all DKE related courses
+Plan of all DKE related courses that are given in English
+Please notice that the language of some courses might change from German to English or vice versa, depending on the attendees. This is at the lecturer's discretion, so please check with the lecturer at the first meeting of the course.
+Last Modification: 08.09.2021
+-
+Contact Person:
+Webmaster
